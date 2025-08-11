@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://revival-nydek.web.app/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://revival-nydek.web.app/revival.jpg</image:loc>
+            <image:title>Revival Nýdek - Měsíční křesťanské setkání</image:title>
+            <image:caption>Revival Nýdek - Měsíční křesťanské setkání v Bystřici pod Slezsko, SCEAV, Chvály a Worship</image:caption>
+        </image:image>
+    </url>
+</urlset>
